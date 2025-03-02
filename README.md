@@ -6,6 +6,9 @@ Chromium OS-centric chroot generator. Ubuntu, Debian, and Kali are supported
 one distro) EOL'd Chroot Environment" doesn't acronymize as well (crodupodece is
 admittedly pretty fun to say, though).
 
+## Huh? You think I'm going to update dependencies to support Jammy?
+I am too lazy too. I'm only forking because I want KDE.
+
 ### 🪦 crouton is now end-of-life 🪦
 
 All good things must come to an end, and considering
@@ -55,9 +58,9 @@ updates, the steps below will likely work for you. However, if you are still
 having trouble, please try the [community-maintained instructions](https://github.com/dnschneid/crouton/wiki/Updated-Installation-Instructions-for-Crouton).
 
 In addition, goo.gl is going away! That means the goo.gl/fd3zc you know and love
-has been replaced with [git.io/JZEs0](https://git.io/JZEs0). That's a zero at
+has been replaced with [this link](https://raw.githubusercontent.com/1dontgiveaf/crouton/master/installer/crouton). That's a zero at
 the end, if you were wondering. Both just point to
-[github](https://raw.githubusercontent.com/dnschneid/crouton/master/installer/crouton),
+[github](https://raw.githubusercontent.com/1dontgiveaf/crouton/master/installer/crouton),
 so you can always just memorize the full link instead, which (fun fact) does not
 include any numbers at all!
 
